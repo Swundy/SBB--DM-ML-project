@@ -11,7 +11,7 @@ The purpose of this project is to build a model that can predict the difficulty 
 - training_data.csv - the training set. Composed of 4800 unique values.
 - unlabelled_test_data.csv - the test set. Composed of 1200 unique values.
 
-[Data used](https://https://www.kaggle.com/competitions/detecting-french-texts-difficulty-level-2022/data?select=unlabelled_test_data.csv)
+[Data used](https://www.kaggle.com/competitions/detecting-french-texts-difficulty-level-2022/data?select=unlabelled_test_data.csv)
 
 ## Methodology
 
