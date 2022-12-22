@@ -1,5 +1,7 @@
 # SBB--DM-ML-project
 
+## SBB Team: Alex Bystritzsky & Samuel Salgado.
+
 ## Detecting the difficulty level of French texts
 
 The purpose of this project is to build a model that can predict the difficulty level of French texts for English speakers.  The goal is to provide texts with a mix of known and unknown words so that the user can improve their language skills while still being able to understand the text. The difficulty levels range from A1 to C2, the objective is to have the best prediction accuracy and we will try different models to see which one is the best.
