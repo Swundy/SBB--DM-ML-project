@@ -34,7 +34,7 @@ We also used "The trainer" which refers to an object that is responsible for tra
 
 In the following table we'll have a sum up of our models including accuracy, recall and F1-score. 
 
-
+![Alt text](https://www.dropbox.com/scl/fi/418cuwze2inl2po99dg0y/CV.docx?dl=0&rlkey=uvd71s7t4ruw0kueg6c4wwr9l)
 
 Based on the results seen before, it appears that the logistic regression model is a simple and efficient model that is well-suited for binary classification tasks, such as predicting the difficulty of a French written text.
 
