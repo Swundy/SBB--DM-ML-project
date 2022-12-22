@@ -53,4 +53,8 @@ With example of good and bad predictions.
 
 ## Conclusion
 
-We saw that our SBB_model has the best accuracy but we could had improved our accuracy if we had more data to test ou model
+We buid a model that is pretty accurate, but how would we be able to improve our model ? Lack of data can be a major obstacle as it is necessary for training and evaluating models. Insufficient data can lead to underfitting, where a model does not accurately capture the underlying patterns in the data. To improve model performance, it is important to gather and utilize as much relevant data as possible, and maybe with a larger number of data we could have had a better prediction.
+
+Source inconsistency can be a problem as it can lead to conflicting or contradictory data which can adversely affect model performance. Ensuring the consistency of sources can improve the reliability and credibility of the data being used, ultimately resulting in more accurate and effective models.
+
+Overfitting is a common problem in machine learning and data analysis, where a model becomes too closely tailored to the specific data it was trained on. Preventing overfitting through cross-validation and limiting parameters improves model performance and reliability.
