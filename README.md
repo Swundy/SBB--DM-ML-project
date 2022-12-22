@@ -48,8 +48,8 @@ Our SBB_model has a precision score of 0.54 when evaluated on a test set. This s
 
 With example of good and bad predictions.
 
-## Explicative video of our model
+## Explicative video presentation of our model
 
 ## Conclusion
 
-We saw that our SBB_model has the best accuracy but we could had improved our accuracy if we had 
+We saw that our SBB_model has the best accuracy but we could had improved our accuracy if we had more data to test ou model
